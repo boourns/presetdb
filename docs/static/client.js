@@ -355,8 +355,9 @@
         name: b2.name,
         presets: []
       };
+      const s2 = search.toLowerCase();
       for (let p2 of b2.presets) {
-        if (p2.name.includes(search) || p2.tags.some((t2) => t2.includes(search))) {
+        if (p2.name.toLowerCase().includes(s2) || p2.tags.some((t2) => t2.toLowerCase().includes(s2))) {
           resultBank.presets.push(p2);
         }
       }

@@ -27,8 +27,9 @@ const renderSearch = () => {
             name: b.name,
             presets: []
         }
+        const s = search.toLowerCase()
         for (let p of b.presets) {
-            if (p.name.includes(search) || p.tags.some(t => t.includes(search))) {
+            if (p.name.toLowerCase().includes(s) || p.tags.some(t => t.toLowerCase().includes(s))) {
                 resultBank.presets.push(p)
             }
         }
