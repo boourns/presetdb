@@ -1,0 +1,2529 @@
+{
+    "banks": [
+        {
+            "name": "Bank 0 (000-099)",
+            "presets": [
+                {
+                    "slot": "000",
+                    "name": "Welcome Back Tom!",
+                    "tags": []
+                },
+                {
+                    "slot": "001",
+                    "name": "Orbiter",
+                    "tags": []
+                },
+                {
+                    "slot": "002",
+                    "name": "Guess Who's Bach",
+                    "tags": []
+                },
+                {
+                    "slot": "003",
+                    "name": "SooperRezzy",
+                    "tags": []
+                },
+                {
+                    "slot": "004",
+                    "name": "Belgrade Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "005",
+                    "name": "Plucked Arp",
+                    "tags": []
+                },
+                {
+                    "slot": "006",
+                    "name": "HoldAndWaitForlt",
+                    "tags": []
+                },
+                {
+                    "slot": "007",
+                    "name": "Broken EP",
+                    "tags": []
+                },
+                {
+                    "slot": "008",
+                    "name": "Mono Lead",
+                    "tags": []
+                },
+                {
+                    "slot": "009",
+                    "name": "TapSynthex",
+                    "tags": []
+                },
+                {
+                    "slot": "010",
+                    "name": "Snake's Synth",
+                    "tags": []
+                },
+                {
+                    "slot": "011",
+                    "name": "LoogielnTheSky",
+                    "tags": []
+                },
+                {
+                    "slot": "012",
+                    "name": "RubberGloveSeduction",
+                    "tags": []
+                },
+                {
+                    "slot": "013",
+                    "name": "Just Beat It",
+                    "tags": []
+                },
+                {
+                    "slot": "014",
+                    "name": "Soft Pipe Organ",
+                    "tags": []
+                },
+                {
+                    "slot": "015",
+                    "name": "Bromage",
+                    "tags": []
+                },
+                {
+                    "slot": "016",
+                    "name": "Useful Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "017",
+                    "name": "DreamyTickChord",
+                    "tags": []
+                },
+                {
+                    "slot": "018",
+                    "name": "Overdrive4Evah",
+                    "tags": []
+                },
+                {
+                    "slot": "019",
+                    "name": "VoxNumana",
+                    "tags": []
+                },
+                {
+                    "slot": "020",
+                    "name": "Night Flight",
+                    "tags": []
+                },
+                {
+                    "slot": "021",
+                    "name": "ArpeggiatedFrenchman",
+                    "tags": []
+                },
+                {
+                    "slot": "022",
+                    "name": "Soft Brass",
+                    "tags": []
+                },
+                {
+                    "slot": "023",
+                    "name": "Electric Avenue",
+                    "tags": []
+                },
+                {
+                    "slot": "024",
+                    "name": "Stimmung",
+                    "tags": []
+                },
+                {
+                    "slot": "025",
+                    "name": "Concrete",
+                    "tags": []
+                },
+                {
+                    "slot": "026",
+                    "name": "Octave Drop",
+                    "tags": []
+                },
+                {
+                    "slot": "027",
+                    "name": "Prayers",
+                    "tags": []
+                },
+                {
+                    "slot": "028",
+                    "name": "New Syres",
+                    "tags": []
+                },
+                {
+                    "slot": "029",
+                    "name": "Antics Strings",
+                    "tags": []
+                },
+                {
+                    "slot": "030",
+                    "name": "Anchorman",
+                    "tags": []
+                },
+                {
+                    "slot": "031",
+                    "name": "OB Poly SAW",
+                    "tags": []
+                },
+                {
+                    "slot": "032",
+                    "name": "Vinces' Touch",
+                    "tags": []
+                },
+                {
+                    "slot": "033",
+                    "name": "DooptyDoop",
+                    "tags": []
+                },
+                {
+                    "slot": "034",
+                    "name": "ErraticBells",
+                    "tags": []
+                },
+                {
+                    "slot": "035",
+                    "name": "PaperBagsWithFoil",
+                    "tags": []
+                },
+                {
+                    "slot": "036",
+                    "name": "FilterModes",
+                    "tags": []
+                },
+                {
+                    "slot": "037",
+                    "name": "Overturning",
+                    "tags": []
+                },
+                {
+                    "slot": "038",
+                    "name": "Kommando",
+                    "tags": []
+                },
+                {
+                    "slot": "039",
+                    "name": "EnergeticArp",
+                    "tags": []
+                },
+                {
+                    "slot": "040",
+                    "name": "Metasynthetics",
+                    "tags": []
+                },
+                {
+                    "slot": "041",
+                    "name": "Ultra-Sheen",
+                    "tags": []
+                },
+                {
+                    "slot": "042",
+                    "name": "Rainy Xpander Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "043",
+                    "name": "Sample & Ring",
+                    "tags": []
+                },
+                {
+                    "slot": "044",
+                    "name": "Titanium Swelling",
+                    "tags": []
+                },
+                {
+                    "slot": "045",
+                    "name": "Pulse",
+                    "tags": []
+                },
+                {
+                    "slot": "046",
+                    "name": "House Chord1",
+                    "tags": []
+                },
+                {
+                    "slot": "047",
+                    "name": "Shimmorchestral",
+                    "tags": []
+                },
+                {
+                    "slot": "048",
+                    "name": "Crush On You",
+                    "tags": []
+                },
+                {
+                    "slot": "049",
+                    "name": "A Guy Called OB",
+                    "tags": []
+                },
+                {
+                    "slot": "050",
+                    "name": "Play It Slow",
+                    "tags": []
+                },
+                {
+                    "slot": "051",
+                    "name": "Ring Modder",
+                    "tags": []
+                },
+                {
+                    "slot": "052",
+                    "name": "Tibetan Bell",
+                    "tags": []
+                },
+                {
+                    "slot": "053",
+                    "name": "Xpanded Orchestral",
+                    "tags": []
+                },
+                {
+                    "slot": "054",
+                    "name": "ItCameFromTheJungle",
+                    "tags": []
+                },
+                {
+                    "slot": "055",
+                    "name": "AndroidSpaceKittens",
+                    "tags": []
+                },
+                {
+                    "slot": "056",
+                    "name": "Scrape The Spring",
+                    "tags": []
+                },
+                {
+                    "slot": "057",
+                    "name": "Modular Noises",
+                    "tags": []
+                },
+                {
+                    "slot": "058",
+                    "name": "Stynker",
+                    "tags": []
+                },
+                {
+                    "slot": "059",
+                    "name": "Back to Basics",
+                    "tags": []
+                },
+                {
+                    "slot": "060",
+                    "name": "Spit",
+                    "tags": []
+                },
+                {
+                    "slot": "061",
+                    "name": "FM Filter Sweep",
+                    "tags": []
+                },
+                {
+                    "slot": "062",
+                    "name": "OB Flute",
+                    "tags": []
+                },
+                {
+                    "slot": "063",
+                    "name": "Traces",
+                    "tags": []
+                },
+                {
+                    "slot": "064",
+                    "name": "Unison Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "065",
+                    "name": "Generator",
+                    "tags": []
+                },
+                {
+                    "slot": "066",
+                    "name": "Latent Motion",
+                    "tags": []
+                },
+                {
+                    "slot": "067",
+                    "name": "Parthenia",
+                    "tags": []
+                },
+                {
+                    "slot": "068",
+                    "name": "Battery Acid",
+                    "tags": []
+                },
+                {
+                    "slot": "069",
+                    "name": "Snth Pop Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "070",
+                    "name": "Statocoaster",
+                    "tags": []
+                },
+                {
+                    "slot": "071",
+                    "name": "Forefront Keys",
+                    "tags": []
+                },
+                {
+                    "slot": "072",
+                    "name": "Pulse Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "073",
+                    "name": "StarStuck",
+                    "tags": []
+                },
+                {
+                    "slot": "074",
+                    "name": "Future Percussion 2",
+                    "tags": []
+                },
+                {
+                    "slot": "075",
+                    "name": "Elec Waves Keys",
+                    "tags": []
+                },
+                {
+                    "slot": "076",
+                    "name": "Hollow Delayed",
+                    "tags": []
+                },
+                {
+                    "slot": "077",
+                    "name": "Intrinsic",
+                    "tags": []
+                },
+                {
+                    "slot": "078",
+                    "name": "Vista",
+                    "tags": []
+                },
+                {
+                    "slot": "079",
+                    "name": "Limbo",
+                    "tags": []
+                },
+                {
+                    "slot": "080",
+                    "name": "Bright Strings",
+                    "tags": []
+                },
+                {
+                    "slot": "081",
+                    "name": "Sierras",
+                    "tags": []
+                },
+                {
+                    "slot": "082",
+                    "name": "Pure OB Brass",
+                    "tags": []
+                },
+                {
+                    "slot": "083",
+                    "name": "Index",
+                    "tags": []
+                },
+                {
+                    "slot": "084",
+                    "name": "Mass Driver",
+                    "tags": []
+                },
+                {
+                    "slot": "085",
+                    "name": "Buzzy Arp",
+                    "tags": []
+                },
+                {
+                    "slot": "086",
+                    "name": "X-Mod Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "087",
+                    "name": "Thin Keys",
+                    "tags": []
+                },
+                {
+                    "slot": "088",
+                    "name": "Norphaser",
+                    "tags": []
+                },
+                {
+                    "slot": "089",
+                    "name": "No Words Strings",
+                    "tags": []
+                },
+                {
+                    "slot": "090",
+                    "name": "Noisy Cricket",
+                    "tags": []
+                },
+                {
+                    "slot": "091",
+                    "name": "Acid Cavey",
+                    "tags": []
+                },
+                {
+                    "slot": "092",
+                    "name": "BellyOfTheBeast",
+                    "tags": []
+                },
+                {
+                    "slot": "093",
+                    "name": "Zarte Verfuefrung",
+                    "tags": []
+                },
+                {
+                    "slot": "094",
+                    "name": "Electron Swell",
+                    "tags": []
+                },
+                {
+                    "slot": "095",
+                    "name": "Panopticon Burst",
+                    "tags": []
+                },
+                {
+                    "slot": "096",
+                    "name": "Ring Toss",
+                    "tags": []
+                },
+                {
+                    "slot": "097",
+                    "name": "BerlinMysteries",
+                    "tags": []
+                },
+                {
+                    "slot": "098",
+                    "name": "Spacewalk",
+                    "tags": []
+                },
+                {
+                    "slot": "099",
+                    "name": "Bad Code",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "name": "Bank 1 (100-199)",
+            "presets": [
+                {
+                    "slot": "100",
+                    "name": "DirtyWowLead",
+                    "tags": []
+                },
+                {
+                    "slot": "101",
+                    "name": "Tri Seq",
+                    "tags": []
+                },
+                {
+                    "slot": "102",
+                    "name": "Victory",
+                    "tags": []
+                },
+                {
+                    "slot": "103",
+                    "name": "Body Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "104",
+                    "name": "Bronze Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "105",
+                    "name": "Filter Fantasy",
+                    "tags": []
+                },
+                {
+                    "slot": "106",
+                    "name": "Frantic Filters",
+                    "tags": []
+                },
+                {
+                    "slot": "107",
+                    "name": "BambooStraws",
+                    "tags": []
+                },
+                {
+                    "slot": "108",
+                    "name": "Metal Bent Forest",
+                    "tags": []
+                },
+                {
+                    "slot": "109",
+                    "name": "Shimmer Key",
+                    "tags": []
+                },
+                {
+                    "slot": "110",
+                    "name": "Squareclavier",
+                    "tags": []
+                },
+                {
+                    "slot": "111",
+                    "name": "Echolot Lead",
+                    "tags": []
+                },
+                {
+                    "slot": "112",
+                    "name": "Variscope Lead",
+                    "tags": []
+                },
+                {
+                    "slot": "113",
+                    "name": "Xpansions",
+                    "tags": []
+                },
+                {
+                    "slot": "114",
+                    "name": "All Is Lost",
+                    "tags": []
+                },
+                {
+                    "slot": "115",
+                    "name": "Brite Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "116",
+                    "name": "Rythm Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "117",
+                    "name": "Vlad's Lovely Arp",
+                    "tags": []
+                },
+                {
+                    "slot": "118",
+                    "name": "Folding Facets",
+                    "tags": []
+                },
+                {
+                    "slot": "119",
+                    "name": "Subtrapper Distorted",
+                    "tags": []
+                },
+                {
+                    "slot": "120",
+                    "name": "SubtlePad",
+                    "tags": []
+                },
+                {
+                    "slot": "121",
+                    "name": "Super Sync Lead",
+                    "tags": []
+                },
+                {
+                    "slot": "122",
+                    "name": "Error Piano",
+                    "tags": []
+                },
+                {
+                    "slot": "123",
+                    "name": "BallsyBass",
+                    "tags": []
+                },
+                {
+                    "slot": "124",
+                    "name": "Metallimba",
+                    "tags": []
+                },
+                {
+                    "slot": "125",
+                    "name": "Classic Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "126",
+                    "name": "PhasedKlavier",
+                    "tags": []
+                },
+                {
+                    "slot": "127",
+                    "name": "OB-84",
+                    "tags": []
+                },
+                {
+                    "slot": "128",
+                    "name": "Arp Wave",
+                    "tags": []
+                },
+                {
+                    "slot": "129",
+                    "name": "DryOBbrass",
+                    "tags": []
+                },
+                {
+                    "slot": "130",
+                    "name": "Wavegrinder",
+                    "tags": []
+                },
+                {
+                    "slot": "131",
+                    "name": "Trembello",
+                    "tags": []
+                },
+                {
+                    "slot": "132",
+                    "name": "Hidden Valley",
+                    "tags": []
+                },
+                {
+                    "slot": "133",
+                    "name": "PitchyAttacker",
+                    "tags": []
+                },
+                {
+                    "slot": "134",
+                    "name": "Bright Pluck",
+                    "tags": []
+                },
+                {
+                    "slot": "135",
+                    "name": "Shout!",
+                    "tags": []
+                },
+                {
+                    "slot": "136",
+                    "name": "London Fog",
+                    "tags": []
+                },
+                {
+                    "slot": "137",
+                    "name": "Station2SpaceStation",
+                    "tags": []
+                },
+                {
+                    "slot": "138",
+                    "name": "OB Piano",
+                    "tags": []
+                },
+                {
+                    "slot": "139",
+                    "name": "PhasedHum",
+                    "tags": []
+                },
+                {
+                    "slot": "140",
+                    "name": "PowerLines Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "141",
+                    "name": "Burst",
+                    "tags": []
+                },
+                {
+                    "slot": "142",
+                    "name": "Into The White",
+                    "tags": []
+                },
+                {
+                    "slot": "143",
+                    "name": "Berlin Too",
+                    "tags": []
+                },
+                {
+                    "slot": "144",
+                    "name": "The Longest Repat",
+                    "tags": []
+                },
+                {
+                    "slot": "145",
+                    "name": "Time Lapse",
+                    "tags": []
+                },
+                {
+                    "slot": "146",
+                    "name": "VR Rift",
+                    "tags": []
+                },
+                {
+                    "slot": "147",
+                    "name": "Groove Seq",
+                    "tags": []
+                },
+                {
+                    "slot": "148",
+                    "name": "Classic Arp",
+                    "tags": []
+                },
+                {
+                    "slot": "149",
+                    "name": "Knife's Depth",
+                    "tags": []
+                },
+                {
+                    "slot": "150",
+                    "name": "Notched Wobble",
+                    "tags": []
+                },
+                {
+                    "slot": "151",
+                    "name": "Terrordome",
+                    "tags": []
+                },
+                {
+                    "slot": "152",
+                    "name": "Greek Expressionist",
+                    "tags": []
+                },
+                {
+                    "slot": "153",
+                    "name": "OB Squared",
+                    "tags": []
+                },
+                {
+                    "slot": "154",
+                    "name": "Harmonic Cannon",
+                    "tags": []
+                },
+                {
+                    "slot": "155",
+                    "name": "Untuned Bells",
+                    "tags": []
+                },
+                {
+                    "slot": "156",
+                    "name": "Bowed Glass Orch",
+                    "tags": []
+                },
+                {
+                    "slot": "157",
+                    "name": "Ghost Tines",
+                    "tags": []
+                },
+                {
+                    "slot": "158",
+                    "name": "Sponge Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "159",
+                    "name": "Vowel Movement",
+                    "tags": []
+                },
+                {
+                    "slot": "160",
+                    "name": "Regal String",
+                    "tags": []
+                },
+                {
+                    "slot": "161",
+                    "name": "Pulsation",
+                    "tags": []
+                },
+                {
+                    "slot": "162",
+                    "name": "Dance Of The Rings",
+                    "tags": []
+                },
+                {
+                    "slot": "163",
+                    "name": "Eurail Pass",
+                    "tags": []
+                },
+                {
+                    "slot": "164",
+                    "name": "Keep On Dancing",
+                    "tags": []
+                },
+                {
+                    "slot": "165",
+                    "name": "DecoPad",
+                    "tags": []
+                },
+                {
+                    "slot": "166",
+                    "name": "CruiseControl",
+                    "tags": []
+                },
+                {
+                    "slot": "167",
+                    "name": "EasyFweep",
+                    "tags": []
+                },
+                {
+                    "slot": "168",
+                    "name": "Alexandria",
+                    "tags": []
+                },
+                {
+                    "slot": "169",
+                    "name": "Squarelead",
+                    "tags": []
+                },
+                {
+                    "slot": "170",
+                    "name": "Oh My Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "171",
+                    "name": "HollowBassSeqSynth",
+                    "tags": []
+                },
+                {
+                    "slot": "172",
+                    "name": "Saloma",
+                    "tags": []
+                },
+                {
+                    "slot": "173",
+                    "name": "Gravitron",
+                    "tags": []
+                },
+                {
+                    "slot": "174",
+                    "name": "Arminta",
+                    "tags": []
+                },
+                {
+                    "slot": "175",
+                    "name": "Ampere",
+                    "tags": []
+                },
+                {
+                    "slot": "176",
+                    "name": "Kelvin",
+                    "tags": []
+                },
+                {
+                    "slot": "177",
+                    "name": "NicePlucker",
+                    "tags": []
+                },
+                {
+                    "slot": "178",
+                    "name": "SoggyBass",
+                    "tags": []
+                },
+                {
+                    "slot": "179",
+                    "name": "Short Wave Radio",
+                    "tags": []
+                },
+                {
+                    "slot": "180",
+                    "name": "Jellico",
+                    "tags": []
+                },
+                {
+                    "slot": "181",
+                    "name": "Superior",
+                    "tags": []
+                },
+                {
+                    "slot": "182",
+                    "name": "Hadron Collider",
+                    "tags": []
+                },
+                {
+                    "slot": "183",
+                    "name": "Micro Prayer",
+                    "tags": []
+                },
+                {
+                    "slot": "184",
+                    "name": "Release Swell",
+                    "tags": []
+                },
+                {
+                    "slot": "185",
+                    "name": "Turbo Lover",
+                    "tags": []
+                },
+                {
+                    "slot": "186",
+                    "name": "Old Romantic",
+                    "tags": []
+                },
+                {
+                    "slot": "187",
+                    "name": "ThinAmplitudes",
+                    "tags": []
+                },
+                {
+                    "slot": "188",
+                    "name": "SloppySide",
+                    "tags": []
+                },
+                {
+                    "slot": "189",
+                    "name": "Wurgle",
+                    "tags": []
+                },
+                {
+                    "slot": "190",
+                    "name": "Sex Object",
+                    "tags": []
+                },
+                {
+                    "slot": "191",
+                    "name": "ClompBass",
+                    "tags": []
+                },
+                {
+                    "slot": "192",
+                    "name": "LazyBrass",
+                    "tags": []
+                },
+                {
+                    "slot": "193",
+                    "name": "Brooding Bottom",
+                    "tags": []
+                },
+                {
+                    "slot": "194",
+                    "name": "Power Surge",
+                    "tags": []
+                },
+                {
+                    "slot": "195",
+                    "name": "OberNuman",
+                    "tags": []
+                },
+                {
+                    "slot": "196",
+                    "name": "Vantage",
+                    "tags": []
+                },
+                {
+                    "slot": "197",
+                    "name": "Tru Dreams",
+                    "tags": []
+                },
+                {
+                    "slot": "198",
+                    "name": "Ex Machina",
+                    "tags": []
+                },
+                {
+                    "slot": "199",
+                    "name": "Highway Five",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "name": "Bank 2 (200-299)",
+            "presets": [
+                {
+                    "slot": "200",
+                    "name": "I Dream of Phasing",
+                    "tags": []
+                },
+                {
+                    "slot": "201",
+                    "name": "BigBlackOber",
+                    "tags": []
+                },
+                {
+                    "slot": "202",
+                    "name": "Backwash",
+                    "tags": []
+                },
+                {
+                    "slot": "203",
+                    "name": "Syncbomb",
+                    "tags": []
+                },
+                {
+                    "slot": "204",
+                    "name": "Droplings",
+                    "tags": []
+                },
+                {
+                    "slot": "205",
+                    "name": "NotExactlyPipes",
+                    "tags": []
+                },
+                {
+                    "slot": "206",
+                    "name": "Long Sweep",
+                    "tags": []
+                },
+                {
+                    "slot": "207",
+                    "name": "Cold Lead",
+                    "tags": []
+                },
+                {
+                    "slot": "208",
+                    "name": "Variel",
+                    "tags": []
+                },
+                {
+                    "slot": "209",
+                    "name": "Frosty Morning",
+                    "tags": []
+                },
+                {
+                    "slot": "210",
+                    "name": "Infinity",
+                    "tags": []
+                },
+                {
+                    "slot": "211",
+                    "name": "Clones",
+                    "tags": []
+                },
+                {
+                    "slot": "212",
+                    "name": "SpittyBrass",
+                    "tags": []
+                },
+                {
+                    "slot": "213",
+                    "name": "DreamPadlnOctaves",
+                    "tags": []
+                },
+                {
+                    "slot": "214",
+                    "name": "Of A Time And Place",
+                    "tags": []
+                },
+                {
+                    "slot": "215",
+                    "name": "Harpsichord",
+                    "tags": []
+                },
+                {
+                    "slot": "216",
+                    "name": "B-Six",
+                    "tags": []
+                },
+                {
+                    "slot": "217",
+                    "name": "Halifax",
+                    "tags": []
+                },
+                {
+                    "slot": "218",
+                    "name": "303 Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "219",
+                    "name": "O Lead",
+                    "tags": []
+                },
+                {
+                    "slot": "220",
+                    "name": "Hero-6",
+                    "tags": []
+                },
+                {
+                    "slot": "221",
+                    "name": "Regal Space Strings",
+                    "tags": []
+                },
+                {
+                    "slot": "222",
+                    "name": "Science Spots",
+                    "tags": []
+                },
+                {
+                    "slot": "223",
+                    "name": "Domino",
+                    "tags": []
+                },
+                {
+                    "slot": "224",
+                    "name": "Bandpassed",
+                    "tags": []
+                },
+                {
+                    "slot": "225",
+                    "name": "OB TechFunk Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "226",
+                    "name": "UncertainEvolutions",
+                    "tags": []
+                },
+                {
+                    "slot": "227",
+                    "name": "Pharpsichord",
+                    "tags": []
+                },
+                {
+                    "slot": "228",
+                    "name": "MotherMayl",
+                    "tags": []
+                },
+                {
+                    "slot": "229",
+                    "name": "RingyThingee",
+                    "tags": []
+                },
+                {
+                    "slot": "230",
+                    "name": "ArpeggiatedDirt",
+                    "tags": []
+                },
+                {
+                    "slot": "231",
+                    "name": "RunnerRunner",
+                    "tags": []
+                },
+                {
+                    "slot": "232",
+                    "name": "OBPPG",
+                    "tags": []
+                },
+                {
+                    "slot": "233",
+                    "name": "Drop Tune Brass",
+                    "tags": []
+                },
+                {
+                    "slot": "234",
+                    "name": "S-Lab Start",
+                    "tags": []
+                },
+                {
+                    "slot": "235",
+                    "name": "Remember When",
+                    "tags": []
+                },
+                {
+                    "slot": "236",
+                    "name": "Collidope",
+                    "tags": []
+                },
+                {
+                    "slot": "237",
+                    "name": "Don'tYouForgetAbout",
+                    "tags": []
+                },
+                {
+                    "slot": "238",
+                    "name": "SpringLead",
+                    "tags": []
+                },
+                {
+                    "slot": "239",
+                    "name": "Higeggio",
+                    "tags": []
+                },
+                {
+                    "slot": "240",
+                    "name": "GatedPoly",
+                    "tags": []
+                },
+                {
+                    "slot": "241",
+                    "name": "UrgentElectronica",
+                    "tags": []
+                },
+                {
+                    "slot": "242",
+                    "name": "BarelyThere",
+                    "tags": []
+                },
+                {
+                    "slot": "243",
+                    "name": "Shifted Strings",
+                    "tags": []
+                },
+                {
+                    "slot": "244",
+                    "name": "LovelyChord",
+                    "tags": []
+                },
+                {
+                    "slot": "245",
+                    "name": "OldSkoolGameLead",
+                    "tags": []
+                },
+                {
+                    "slot": "246",
+                    "name": "Saticoy",
+                    "tags": []
+                },
+                {
+                    "slot": "247",
+                    "name": "MoonBand",
+                    "tags": []
+                },
+                {
+                    "slot": "248",
+                    "name": "SynDy'ier",
+                    "tags": []
+                },
+                {
+                    "slot": "249",
+                    "name": "Pad Movement",
+                    "tags": []
+                },
+                {
+                    "slot": "250",
+                    "name": "Ober8000",
+                    "tags": []
+                },
+                {
+                    "slot": "251",
+                    "name": "House Chord2",
+                    "tags": []
+                },
+                {
+                    "slot": "252",
+                    "name": "OB Organ",
+                    "tags": []
+                },
+                {
+                    "slot": "253",
+                    "name": "FO Delays",
+                    "tags": []
+                },
+                {
+                    "slot": "254",
+                    "name": "Strange Phase",
+                    "tags": []
+                },
+                {
+                    "slot": "255",
+                    "name": "5th Wheel",
+                    "tags": []
+                },
+                {
+                    "slot": "256",
+                    "name": "Mind Stretch",
+                    "tags": []
+                },
+                {
+                    "slot": "257",
+                    "name": "Royal Orch",
+                    "tags": []
+                },
+                {
+                    "slot": "258",
+                    "name": "News & Information",
+                    "tags": []
+                },
+                {
+                    "slot": "259",
+                    "name": "Borken ROM",
+                    "tags": []
+                },
+                {
+                    "slot": "260",
+                    "name": "Nylon Non-guitar",
+                    "tags": []
+                },
+                {
+                    "slot": "261",
+                    "name": "Fantasia",
+                    "tags": []
+                },
+                {
+                    "slot": "262",
+                    "name": "Exit Hyperspace",
+                    "tags": []
+                },
+                {
+                    "slot": "263",
+                    "name": "Phased String Ensemb",
+                    "tags": []
+                },
+                {
+                    "slot": "264",
+                    "name": "Looking at the Peach",
+                    "tags": []
+                },
+                {
+                    "slot": "265",
+                    "name": "A Striking ReSEMblance",
+                    "tags": []
+                },
+                {
+                    "slot": "266",
+                    "name": "Burnt Rubber Arp",
+                    "tags": []
+                },
+                {
+                    "slot": "267",
+                    "name": "Tension Is Rising",
+                    "tags": []
+                },
+                {
+                    "slot": "268",
+                    "name": "DeepBass",
+                    "tags": []
+                },
+                {
+                    "slot": "269",
+                    "name": "Long Winter kiss",
+                    "tags": []
+                },
+                {
+                    "slot": "270",
+                    "name": "Sgroom",
+                    "tags": []
+                },
+                {
+                    "slot": "271",
+                    "name": "Easter Sync",
+                    "tags": []
+                },
+                {
+                    "slot": "272",
+                    "name": "Bubbleriser",
+                    "tags": []
+                },
+                {
+                    "slot": "273",
+                    "name": "Whistle ARP",
+                    "tags": []
+                },
+                {
+                    "slot": "274",
+                    "name": "HP Sweecho",
+                    "tags": []
+                },
+                {
+                    "slot": "275",
+                    "name": "Sport Final",
+                    "tags": []
+                },
+                {
+                    "slot": "276",
+                    "name": "Bright Keys",
+                    "tags": []
+                },
+                {
+                    "slot": "277",
+                    "name": "Genetics",
+                    "tags": []
+                },
+                {
+                    "slot": "278",
+                    "name": "VeloTrance",
+                    "tags": []
+                },
+                {
+                    "slot": "279",
+                    "name": "Ohms",
+                    "tags": []
+                },
+                {
+                    "slot": "280",
+                    "name": "Zelsah",
+                    "tags": []
+                },
+                {
+                    "slot": "281",
+                    "name": "Orion",
+                    "tags": []
+                },
+                {
+                    "slot": "282",
+                    "name": "NeutralityPluck",
+                    "tags": []
+                },
+                {
+                    "slot": "283",
+                    "name": "Hymnal Pipes",
+                    "tags": []
+                },
+                {
+                    "slot": "284",
+                    "name": "Glassy Balafon",
+                    "tags": []
+                },
+                {
+                    "slot": "285",
+                    "name": "Oblique Strings",
+                    "tags": []
+                },
+                {
+                    "slot": "286",
+                    "name": "80s Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "287",
+                    "name": "Long Hold Solo",
+                    "tags": []
+                },
+                {
+                    "slot": "288",
+                    "name": "Electro Burb",
+                    "tags": []
+                },
+                {
+                    "slot": "289",
+                    "name": "Scatter Brain",
+                    "tags": []
+                },
+                {
+                    "slot": "290",
+                    "name": "FO Rate Is The Key",
+                    "tags": []
+                },
+                {
+                    "slot": "291",
+                    "name": "White Nightmare",
+                    "tags": []
+                },
+                {
+                    "slot": "292",
+                    "name": "Stepping Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "293",
+                    "name": "TinTones",
+                    "tags": []
+                },
+                {
+                    "slot": "294",
+                    "name": "SEMipeggiator",
+                    "tags": []
+                },
+                {
+                    "slot": "295",
+                    "name": "Fairy Land",
+                    "tags": []
+                },
+                {
+                    "slot": "296",
+                    "name": "LoudProudLead",
+                    "tags": []
+                },
+                {
+                    "slot": "297",
+                    "name": "Ventana",
+                    "tags": []
+                },
+                {
+                    "slot": "298",
+                    "name": "WiggleSide",
+                    "tags": []
+                },
+                {
+                    "slot": "299",
+                    "name": "Dramatic Phase",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "name": "Bank 3 (300-399)",
+            "presets": [
+                {
+                    "slot": "300",
+                    "name": "SequenceMe",
+                    "tags": []
+                },
+                {
+                    "slot": "301",
+                    "name": "Voice From Above",
+                    "tags": []
+                },
+                {
+                    "slot": "302",
+                    "name": "DrySquare",
+                    "tags": []
+                },
+                {
+                    "slot": "303",
+                    "name": "Ober60",
+                    "tags": []
+                },
+                {
+                    "slot": "304",
+                    "name": "PannerClav",
+                    "tags": []
+                },
+                {
+                    "slot": "305",
+                    "name": "Commodore 65",
+                    "tags": []
+                },
+                {
+                    "slot": "306",
+                    "name": "GrittyBriteBass",
+                    "tags": []
+                },
+                {
+                    "slot": "307",
+                    "name": "RezzyBrass",
+                    "tags": []
+                },
+                {
+                    "slot": "308",
+                    "name": "Quadratura",
+                    "tags": []
+                },
+                {
+                    "slot": "309",
+                    "name": "Early 80's",
+                    "tags": []
+                },
+                {
+                    "slot": "310",
+                    "name": "TinTones2",
+                    "tags": []
+                },
+                {
+                    "slot": "311",
+                    "name": "GrandBrassyX",
+                    "tags": []
+                },
+                {
+                    "slot": "312",
+                    "name": "Bassive Mass",
+                    "tags": []
+                },
+                {
+                    "slot": "313",
+                    "name": "PhaseZoink",
+                    "tags": []
+                },
+                {
+                    "slot": "314",
+                    "name": "Lonely Planet",
+                    "tags": []
+                },
+                {
+                    "slot": "315",
+                    "name": "Vowels '83",
+                    "tags": []
+                },
+                {
+                    "slot": "316",
+                    "name": "HaryAttack",
+                    "tags": []
+                },
+                {
+                    "slot": "317",
+                    "name": "Gwowzichord",
+                    "tags": []
+                },
+                {
+                    "slot": "318",
+                    "name": "Fizzy Brass",
+                    "tags": []
+                },
+                {
+                    "slot": "319",
+                    "name": "LongPhaseyPad",
+                    "tags": []
+                },
+                {
+                    "slot": "320",
+                    "name": "SmakBass",
+                    "tags": []
+                },
+                {
+                    "slot": "321",
+                    "name": "Follow Me!",
+                    "tags": []
+                },
+                {
+                    "slot": "322",
+                    "name": "Reverse Beginnings",
+                    "tags": []
+                },
+                {
+                    "slot": "323",
+                    "name": "Ring Voice",
+                    "tags": []
+                },
+                {
+                    "slot": "324",
+                    "name": "WoaWoaWoaWoa",
+                    "tags": []
+                },
+                {
+                    "slot": "325",
+                    "name": "Brahma",
+                    "tags": []
+                },
+                {
+                    "slot": "326",
+                    "name": "Crips House",
+                    "tags": []
+                },
+                {
+                    "slot": "327",
+                    "name": "DontGetExcited",
+                    "tags": []
+                },
+                {
+                    "slot": "328",
+                    "name": "Coolpeggiation",
+                    "tags": []
+                },
+                {
+                    "slot": "329",
+                    "name": "Gets Weird",
+                    "tags": []
+                },
+                {
+                    "slot": "330",
+                    "name": "Nova One",
+                    "tags": []
+                },
+                {
+                    "slot": "331",
+                    "name": "Machine Grind",
+                    "tags": []
+                },
+                {
+                    "slot": "332",
+                    "name": "TickyBubbles",
+                    "tags": []
+                },
+                {
+                    "slot": "333",
+                    "name": "RubberCoatedMetal",
+                    "tags": []
+                },
+                {
+                    "slot": "334",
+                    "name": "NeonChild",
+                    "tags": []
+                },
+                {
+                    "slot": "335",
+                    "name": "Pulserez",
+                    "tags": []
+                },
+                {
+                    "slot": "336",
+                    "name": "DistantDreams",
+                    "tags": []
+                },
+                {
+                    "slot": "337",
+                    "name": "Prash Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "338",
+                    "name": "Jack The Lead",
+                    "tags": []
+                },
+                {
+                    "slot": "339",
+                    "name": "Coalesce",
+                    "tags": []
+                },
+                {
+                    "slot": "340",
+                    "name": "PourltOn",
+                    "tags": []
+                },
+                {
+                    "slot": "341",
+                    "name": "Snared",
+                    "tags": []
+                },
+                {
+                    "slot": "342",
+                    "name": "Ventana",
+                    "tags": []
+                },
+                {
+                    "slot": "343",
+                    "name": "Metal Beat",
+                    "tags": []
+                },
+                {
+                    "slot": "344",
+                    "name": "Clock T.W.O.",
+                    "tags": []
+                },
+                {
+                    "slot": "345",
+                    "name": "Sugarsweet",
+                    "tags": []
+                },
+                {
+                    "slot": "346",
+                    "name": "NosebombFactory",
+                    "tags": []
+                },
+                {
+                    "slot": "347",
+                    "name": "MumpyTremolo",
+                    "tags": []
+                },
+                {
+                    "slot": "348",
+                    "name": "TrillToy",
+                    "tags": []
+                },
+                {
+                    "slot": "349",
+                    "name": "FIngered Pluck",
+                    "tags": []
+                },
+                {
+                    "slot": "350",
+                    "name": "FizzyRezbubbler",
+                    "tags": []
+                },
+                {
+                    "slot": "351",
+                    "name": "MicroSEM",
+                    "tags": []
+                },
+                {
+                    "slot": "352",
+                    "name": "ClopClop",
+                    "tags": []
+                },
+                {
+                    "slot": "353",
+                    "name": "Curling Lines",
+                    "tags": []
+                },
+                {
+                    "slot": "354",
+                    "name": "DX-Xa",
+                    "tags": []
+                },
+                {
+                    "slot": "355",
+                    "name": "YaiYaiLights",
+                    "tags": []
+                },
+                {
+                    "slot": "356",
+                    "name": "What The?",
+                    "tags": []
+                },
+                {
+                    "slot": "357",
+                    "name": "Action Scene",
+                    "tags": []
+                },
+                {
+                    "slot": "358",
+                    "name": "Deep Raspy Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "359",
+                    "name": "Thin And Stringy",
+                    "tags": []
+                },
+                {
+                    "slot": "360",
+                    "name": "Toy Typewriter",
+                    "tags": []
+                },
+                {
+                    "slot": "361",
+                    "name": "JoeBirdbass",
+                    "tags": []
+                },
+                {
+                    "slot": "362",
+                    "name": "LowBudgetScares",
+                    "tags": []
+                },
+                {
+                    "slot": "363",
+                    "name": "GorgonOrgon",
+                    "tags": []
+                },
+                {
+                    "slot": "364",
+                    "name": "BandAmpMod",
+                    "tags": []
+                },
+                {
+                    "slot": "365",
+                    "name": "Arpeggination",
+                    "tags": []
+                },
+                {
+                    "slot": "366",
+                    "name": "LostMelodiesOf80s",
+                    "tags": []
+                },
+                {
+                    "slot": "367",
+                    "name": "PerkyDirtOrgan",
+                    "tags": []
+                },
+                {
+                    "slot": "368",
+                    "name": "Harsh Chime",
+                    "tags": []
+                },
+                {
+                    "slot": "369",
+                    "name": "Noisy Chords",
+                    "tags": []
+                },
+                {
+                    "slot": "370",
+                    "name": "FM Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "371",
+                    "name": "Brassy",
+                    "tags": []
+                },
+                {
+                    "slot": "372",
+                    "name": "Tight Lead",
+                    "tags": []
+                },
+                {
+                    "slot": "373",
+                    "name": "Adelinear",
+                    "tags": []
+                },
+                {
+                    "slot": "374",
+                    "name": "X-50",
+                    "tags": []
+                },
+                {
+                    "slot": "375",
+                    "name": "CalcuSlider",
+                    "tags": []
+                },
+                {
+                    "slot": "376",
+                    "name": "Bird's Eye",
+                    "tags": []
+                },
+                {
+                    "slot": "377",
+                    "name": "Synker Lead",
+                    "tags": []
+                },
+                {
+                    "slot": "378",
+                    "name": "Thunker",
+                    "tags": []
+                },
+                {
+                    "slot": "379",
+                    "name": "FlutterFilter",
+                    "tags": []
+                },
+                {
+                    "slot": "380",
+                    "name": "Sweep Sync Lead",
+                    "tags": []
+                },
+                {
+                    "slot": "381",
+                    "name": "Brass String Bells",
+                    "tags": []
+                },
+                {
+                    "slot": "382",
+                    "name": "PhwapBrass",
+                    "tags": []
+                },
+                {
+                    "slot": "383",
+                    "name": "BigHairBass",
+                    "tags": []
+                },
+                {
+                    "slot": "384",
+                    "name": "Phummmmmm",
+                    "tags": []
+                },
+                {
+                    "slot": "385",
+                    "name": "BuzzPluckyear",
+                    "tags": []
+                },
+                {
+                    "slot": "386",
+                    "name": "FatDrivingBass",
+                    "tags": []
+                },
+                {
+                    "slot": "387",
+                    "name": "AltRealityOrgan",
+                    "tags": []
+                },
+                {
+                    "slot": "388",
+                    "name": "Worbl",
+                    "tags": []
+                },
+                {
+                    "slot": "389",
+                    "name": "Tiny PortaPan",
+                    "tags": []
+                },
+                {
+                    "slot": "390",
+                    "name": "Crying Chord",
+                    "tags": []
+                },
+                {
+                    "slot": "391",
+                    "name": "Distorted Push",
+                    "tags": []
+                },
+                {
+                    "slot": "392",
+                    "name": "PlasticBass",
+                    "tags": []
+                },
+                {
+                    "slot": "393",
+                    "name": "Tuff Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "394",
+                    "name": "ShortnBright",
+                    "tags": []
+                },
+                {
+                    "slot": "395",
+                    "name": "ResRise Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "396",
+                    "name": "Dusty Mellow",
+                    "tags": []
+                },
+                {
+                    "slot": "397",
+                    "name": "Face ARP",
+                    "tags": []
+                },
+                {
+                    "slot": "398",
+                    "name": "The Dentist's Drill",
+                    "tags": []
+                },
+                {
+                    "slot": "399",
+                    "name": "Thunder Toad",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "name": "Bank 4 (400-499)",
+            "presets": [
+                {
+                    "slot": "400",
+                    "name": "Instant Intro",
+                    "tags": []
+                },
+                {
+                    "slot": "401",
+                    "name": "Hump Harmony",
+                    "tags": []
+                },
+                {
+                    "slot": "402",
+                    "name": "Little Bells",
+                    "tags": []
+                },
+                {
+                    "slot": "403",
+                    "name": "SinusPuncher",
+                    "tags": []
+                },
+                {
+                    "slot": "404",
+                    "name": "FMsyncpad",
+                    "tags": []
+                },
+                {
+                    "slot": "405",
+                    "name": "Phaslander",
+                    "tags": []
+                },
+                {
+                    "slot": "406",
+                    "name": "TelepathicMoment",
+                    "tags": []
+                },
+                {
+                    "slot": "407",
+                    "name": "Falling Bubbles",
+                    "tags": []
+                },
+                {
+                    "slot": "408",
+                    "name": "CasetteChorus",
+                    "tags": []
+                },
+                {
+                    "slot": "409",
+                    "name": "BrasseX",
+                    "tags": []
+                },
+                {
+                    "slot": "410",
+                    "name": "Chaos Winds",
+                    "tags": []
+                },
+                {
+                    "slot": "411",
+                    "name": "Hero Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "412",
+                    "name": "BeKindRewind",
+                    "tags": []
+                },
+                {
+                    "slot": "413",
+                    "name": "Overblown Tone",
+                    "tags": []
+                },
+                {
+                    "slot": "414",
+                    "name": "Synbiano",
+                    "tags": []
+                },
+                {
+                    "slot": "415",
+                    "name": "Had This Thing",
+                    "tags": []
+                },
+                {
+                    "slot": "416",
+                    "name": "Fractal Intercourse",
+                    "tags": []
+                },
+                {
+                    "slot": "417",
+                    "name": "Talking Machine",
+                    "tags": []
+                },
+                {
+                    "slot": "418",
+                    "name": "Pianomorph",
+                    "tags": []
+                },
+                {
+                    "slot": "419",
+                    "name": "Almost Octaves",
+                    "tags": []
+                },
+                {
+                    "slot": "420",
+                    "name": "Famous Brass",
+                    "tags": []
+                },
+                {
+                    "slot": "421",
+                    "name": "Fast Filter",
+                    "tags": []
+                },
+                {
+                    "slot": "422",
+                    "name": "Bubbles",
+                    "tags": []
+                },
+                {
+                    "slot": "423",
+                    "name": "Syncopation",
+                    "tags": []
+                },
+                {
+                    "slot": "424",
+                    "name": "Release Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "425",
+                    "name": "LegatoUnisonLead",
+                    "tags": []
+                },
+                {
+                    "slot": "426",
+                    "name": "Det Chords",
+                    "tags": []
+                },
+                {
+                    "slot": "427",
+                    "name": "Meteor",
+                    "tags": []
+                },
+                {
+                    "slot": "428",
+                    "name": "Section Z",
+                    "tags": []
+                },
+                {
+                    "slot": "429",
+                    "name": "TakeFivePlease",
+                    "tags": []
+                },
+                {
+                    "slot": "430",
+                    "name": "SlowWowRise",
+                    "tags": []
+                },
+                {
+                    "slot": "431",
+                    "name": "NasalPluck",
+                    "tags": []
+                },
+                {
+                    "slot": "432",
+                    "name": "FMGrindPiano",
+                    "tags": []
+                },
+                {
+                    "slot": "433",
+                    "name": "\"12\"\" Piano\"",
+                    "tags": []
+                },
+                {
+                    "slot": "434",
+                    "name": "Talking Lead",
+                    "tags": []
+                },
+                {
+                    "slot": "435",
+                    "name": "Waiting For",
+                    "tags": []
+                },
+                {
+                    "slot": "436",
+                    "name": "Pluck And Sus",
+                    "tags": []
+                },
+                {
+                    "slot": "437",
+                    "name": "Upright Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "438",
+                    "name": "Midnight Romantic",
+                    "tags": []
+                },
+                {
+                    "slot": "439",
+                    "name": "Are Insects Electric",
+                    "tags": []
+                },
+                {
+                    "slot": "440",
+                    "name": "HeroicChord",
+                    "tags": []
+                },
+                {
+                    "slot": "441",
+                    "name": "Colours",
+                    "tags": []
+                },
+                {
+                    "slot": "442",
+                    "name": "Rubberbass",
+                    "tags": []
+                },
+                {
+                    "slot": "443",
+                    "name": "Cosmic Journey Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "444",
+                    "name": "Find The Click",
+                    "tags": []
+                },
+                {
+                    "slot": "445",
+                    "name": "Scary",
+                    "tags": []
+                },
+                {
+                    "slot": "446",
+                    "name": "JustJuicy",
+                    "tags": []
+                },
+                {
+                    "slot": "447",
+                    "name": "Bob Who?",
+                    "tags": []
+                },
+                {
+                    "slot": "448",
+                    "name": "Obese!",
+                    "tags": []
+                },
+                {
+                    "slot": "449",
+                    "name": "SOR Lead",
+                    "tags": []
+                },
+                {
+                    "slot": "450",
+                    "name": "ChordM Shower",
+                    "tags": []
+                },
+                {
+                    "slot": "451",
+                    "name": "Square Dream",
+                    "tags": []
+                },
+                {
+                    "slot": "452",
+                    "name": "Solo Brass",
+                    "tags": []
+                },
+                {
+                    "slot": "453",
+                    "name": "Aazonia",
+                    "tags": []
+                },
+                {
+                    "slot": "454",
+                    "name": "RingGrinderArp",
+                    "tags": []
+                },
+                {
+                    "slot": "455",
+                    "name": "50sB-Feature",
+                    "tags": []
+                },
+                {
+                    "slot": "456",
+                    "name": "SynChronus",
+                    "tags": []
+                },
+                {
+                    "slot": "457",
+                    "name": "Sarazen",
+                    "tags": []
+                },
+                {
+                    "slot": "458",
+                    "name": "BriteNCheerful",
+                    "tags": []
+                },
+                {
+                    "slot": "459",
+                    "name": "Kenny K Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "460",
+                    "name": "Youngod Cloud",
+                    "tags": []
+                },
+                {
+                    "slot": "461",
+                    "name": "BlowAmbience",
+                    "tags": []
+                },
+                {
+                    "slot": "462",
+                    "name": "Flohzirkus",
+                    "tags": []
+                },
+                {
+                    "slot": "463",
+                    "name": "Tiny Things",
+                    "tags": []
+                },
+                {
+                    "slot": "464",
+                    "name": "80's Sci-Fi",
+                    "tags": []
+                },
+                {
+                    "slot": "465",
+                    "name": "Regret Bells",
+                    "tags": []
+                },
+                {
+                    "slot": "466",
+                    "name": "Beat It",
+                    "tags": []
+                },
+                {
+                    "slot": "467",
+                    "name": "Sweeping Horizon",
+                    "tags": []
+                },
+                {
+                    "slot": "468",
+                    "name": "Paranoia Pulse",
+                    "tags": []
+                },
+                {
+                    "slot": "469",
+                    "name": "TribalTom",
+                    "tags": []
+                },
+                {
+                    "slot": "470",
+                    "name": "SoftSimpleSquares",
+                    "tags": []
+                },
+                {
+                    "slot": "471",
+                    "name": "TrillSync",
+                    "tags": []
+                },
+                {
+                    "slot": "472",
+                    "name": "Super Size Me",
+                    "tags": []
+                },
+                {
+                    "slot": "473",
+                    "name": "Pulseswell",
+                    "tags": []
+                },
+                {
+                    "slot": "474",
+                    "name": "AnvilsAndMetals",
+                    "tags": []
+                },
+                {
+                    "slot": "475",
+                    "name": "Clank Machine",
+                    "tags": []
+                },
+                {
+                    "slot": "476",
+                    "name": "Smooth Glide",
+                    "tags": []
+                },
+                {
+                    "slot": "477",
+                    "name": "Noise Drum",
+                    "tags": []
+                },
+                {
+                    "slot": "478",
+                    "name": "Broken Tube",
+                    "tags": []
+                },
+                {
+                    "slot": "479",
+                    "name": "Hollow Pad",
+                    "tags": []
+                },
+                {
+                    "slot": "480",
+                    "name": "Worrel-heim",
+                    "tags": []
+                },
+                {
+                    "slot": "481",
+                    "name": "Blake Twinkle",
+                    "tags": []
+                },
+                {
+                    "slot": "482",
+                    "name": "Pensive",
+                    "tags": []
+                },
+                {
+                    "slot": "483",
+                    "name": "SomethingWeird",
+                    "tags": []
+                },
+                {
+                    "slot": "484",
+                    "name": "AKindofSadness",
+                    "tags": []
+                },
+                {
+                    "slot": "485",
+                    "name": "Sunc Kyoto",
+                    "tags": []
+                },
+                {
+                    "slot": "486",
+                    "name": "Dimension Slide",
+                    "tags": []
+                },
+                {
+                    "slot": "487",
+                    "name": "Ruff Bass",
+                    "tags": []
+                },
+                {
+                    "slot": "488",
+                    "name": "OBratic Strings",
+                    "tags": []
+                },
+                {
+                    "slot": "489",
+                    "name": "Clany Metal Pots",
+                    "tags": []
+                },
+                {
+                    "slot": "490",
+                    "name": "Space Fart",
+                    "tags": []
+                },
+                {
+                    "slot": "491",
+                    "name": "BP Craziness",
+                    "tags": []
+                },
+                {
+                    "slot": "492",
+                    "name": "Pop Delays",
+                    "tags": []
+                },
+                {
+                    "slot": "493",
+                    "name": "GrowlyBass",
+                    "tags": []
+                },
+                {
+                    "slot": "494",
+                    "name": "Headcleaner",
+                    "tags": []
+                },
+                {
+                    "slot": "495",
+                    "name": "Waa",
+                    "tags": []
+                },
+                {
+                    "slot": "496",
+                    "name": "Electric Polyanno",
+                    "tags": []
+                },
+                {
+                    "slot": "497",
+                    "name": "Just Wait!",
+                    "tags": []
+                },
+                {
+                    "slot": "498",
+                    "name": "OberThereBass",
+                    "tags": []
+                },
+                {
+                    "slot": "499",
+                    "name": "SampleHoldComp",
+                    "tags": []
+                }
+            ]
+        }
+    ]
+}

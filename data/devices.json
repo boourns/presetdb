@@ -1,0 +1,15 @@
+{
+    "manufacturer": [
+        {
+            "name": "Sequential",
+            "website": "https://www.sequential.com",
+            "devices": [
+                {
+                    "name": "OB-6",
+                    "path": "ob6",
+                    "description": "The Sequential OB-6 synthesizer comes with 500 presets loaded in slots 000-499 (user-writeable) and repeated again (read-only) from 500-999"
+                }
+            ]
+        }
+    ]
+}
